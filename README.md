@@ -23,7 +23,7 @@ PHP: Hypertext Preprocessor (PHP) is a technology that allows software developer
 MySQL: MySql is a database, widely used for accessing querying, updating, and managing data in databases.
 
 
-Installation Steps
+Installation Steps :
 
 Download zip file and Unzip file on your local server.
 Put this file inside "c:/xampp/htdocs/" .
